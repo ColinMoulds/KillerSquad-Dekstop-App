@@ -19,4 +19,5 @@ The **KillerSquad Desktop App** was created to be used by members & fans of [Kil
 ## Contact
 
 If you need to contact us about anything feel free to join out [Discord](https://discord.gg/bXVYBps)
+<br>
 [![Discord Badge](https://discordapp.com/api/guilds/147866833511251969/embed.png)](https://discord.gg/bXVYBps)
