@@ -1,4 +1,6 @@
-[![KillerSquad](https://github.com/ColinMoulds/KillerSquad-Dekstop-App/blob/master/Docs/Assets/ks-logo-vertical.png?raw=true)](https://discord.gg/bXVYBps)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ColinMoulds/KillerSquad-Dekstop-App/blob/master/Docs/Assets/ks-logo-vertical.png?raw=true">
+</p>
 
 <h1 align="center">KillerSquad Desktop App</h1>
 
