@@ -7,11 +7,8 @@ const url = require('url')
 let mainWindow
 
 function createWindow () {
-  mainWindow = new BrowserWindow({
-    width: 1280,
-    height: 720
-  })
-
+  mainWindow = new BrowserWindow({width: 1280, height: 720, frame: false})
+    
   mainWindow.loadURL('https://killersquad.net')
 
   mainWindow.on('closed', function () {
