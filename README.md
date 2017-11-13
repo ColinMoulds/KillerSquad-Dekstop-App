@@ -4,7 +4,21 @@
 
 <h1 align="center">KillerSquad Desktop App</h1>
 
-The **KillerSquad Desktop App** was created to be used by members & fans of [KillerSquad](http://killersquad.net) built with [Electron](https://electron.atom.io/) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
+The **KillerSquad Desktop App** was created to be used by members & fans of [KillerSquad](http://killersquad.net).
 
+## Built With
+
+* [Node](https://github.com/nodejs/node/blob/master/README.md) - JavaScript Web Runtime.
+* [Npm](https://github.com/npm/npm) - Package Manager.
+* [Electron](https://github.com/electron/electron) - Build cross platform desktop apps with JavaScript, HTML, and CSS.
+
+## Authors
+
+*Initial work* - [Colin Moulds](https://github.com/ColinMoulds)
+
+## Contact
+
+If you need to contact us about anything feel free to join out [Discord](https://discord.gg/bXVYBps)
+<p align="center">
 [![Discord Badge](https://discordapp.com/api/guilds/147866833511251969/embed.png)](https://discord.gg/bXVYBps)
-<br>
+</p>
