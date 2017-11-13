@@ -7,9 +7,10 @@ const url = require('url')
 let mainWindow
 
 function createWindow () {
-  mainWindow = new BrowserWindow({width: 1280, height: 720, frame: false})
+  mainWindow = new BrowserWindow({width: 1280, height: 720, titleBarStyle:'hidden'})
     
-  mainWindow.loadURL('https://killersquad.net')
+  mainWindow.loadURL('https://mixer.com/team/killersquads',
+    {webPreferences: {javascript: true}});
 
   mainWindow.on('closed', function () {
     mainWindow = null
