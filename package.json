@@ -1,19 +1,24 @@
 {
   "name": "killersquad-dekstop-app",
   "version": "1.0.0",
-  "description": "<p align=\"center\">   <img src=\"https://github.com/ColinMoulds/KillerSquad-Dekstop-App/blob/master/Docs/Assets/ks-logo-vertical.png?raw=true\"> </p>",
-  "main": "index.js",
+  "description": "to be added",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ColinMoulds/KillerSquad-Dekstop-App.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ColinMoulds/KillerSquad-Dekstop-App/issues"
-  },
-  "homepage": "https://github.com/ColinMoulds/KillerSquad-Dekstop-App#readme"
+  "repository": "https://github.com/ColinMoulds/KillerSquad-Dekstop-App",
+  "keywords": [
+    "killersquad",
+    "desktop",
+    "stream",
+    "mixer",
+    "twitch"
+  ],
+  "author": "Colin Moulds",
+  "license": "",
+  "bugs": {"url": "https://github.com/ColinMoulds/KillerSquad-Dekstop-App/issues"},
+  "homepage": "https://github.com/ColinMoulds/KillerSquad-Dekstop-App#readme",
+  "devDependencies": {
+    "electron": "~1.7.9"
+  }
 }
